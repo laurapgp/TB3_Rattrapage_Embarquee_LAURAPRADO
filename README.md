@@ -6,7 +6,7 @@ Work done for the Toolbox 3 of the ICM course at the Ã‰cole des Mines de Saint-Ã
 1. Configure the Arduino IDE by going to File > Preferences > Additional boards manager URLs and add the following URL: https://dl.espressif.com/dl/package_esp32_index.json.
 2. Install the ESP32 board support in the Arduino IDE.
 3. Select the ESP32 Wrover Module as your target board in the IDE settings.
-4. Install/Check if you have installed the libraries declared at the begging of the code. They are listed in ref [] and [].
+4. Install/Check if you have installed the libraries declared at the begging of the code. They are listed in ref [5] and [6].
 5. Connect the board to the computer and click on "Upload" in the Arduino IDE interface.
 6. Monitor the code output through the Serial Monitor.
 
@@ -15,9 +15,11 @@ Apart from the classroom material the following sources were used to produce the
 1. TB3 Final Project code. Ref[1] (https://github.com/ho0dlumx/TB3-nixegourmet-embarqueee)
 2. ESP32 GET JSON from API - ESP32 GET request from API receive JSON. Ref[2] (https://www.youtube.com/watch?v=cgoCmYLeaSI)
 3. Official Random documentation. Ref[3] (https://www.arduino.cc/reference/en/language/functions/random-numbers/random/)
-4. StacticJson official documentation. Ref[4] (https://arduinojson.org/v6/api/staticjsondocument/)
+4. DynamicJsonDocument official documentation. Ref[4] (https://arduinojson.org/v6/api/dynamicjsondocument/)
 5. ArduinoJson official documentation. Ref[5] (https://arduinojson.org/?utm_source=meta&utm_medium=library.properties)
 6. HTTPClient official documentation. Ref[6] (https://github.com/amcewen/HttpClient)
+7. JsonArray documentation. Ref[7] (https://arduinojson.org/v6/api/jsonarray/)
+8. JsonObject documentation. Ref[8] (https://arduinojson.org/v6/api/jsonobject/)
 
 ## API
 In order to complete the given task of this project, the same API used in ref[2] was the one put to test, in order to simulate the other rattrapage works API. 
