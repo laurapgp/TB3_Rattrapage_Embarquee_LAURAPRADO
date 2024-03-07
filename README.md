@@ -15,7 +15,7 @@ Apart from the classroom material the following sources were used to produce the
 1. TB3 Final Project code. Ref[1] (https://github.com/ho0dlumx/TB3-nixegourmet-embarqueee)
 2. ESP32 GET JSON from API - ESP32 GET request from API receive JSON. Ref[2] (https://www.youtube.com/watch?v=cgoCmYLeaSI)
 3. Official Random documentation. Ref[3] (https://www.arduino.cc/reference/en/language/functions/random-numbers/random/)
-4. DynamicJsonDocument official documentation. Ref[4] (https://arduinojson.org/v6/api/dynamicjsondocument/)
+4. StaticJsonDocument official documentation. Ref[4] (https://arduinojson.org/v6/api/staticjsondocument/)
 5. ArduinoJson official documentation. Ref[5] (https://arduinojson.org/?utm_source=meta&utm_medium=library.properties)
 6. HTTPClient official documentation. Ref[6] (https://github.com/amcewen/HttpClient)
 7. JsonArray documentation. Ref[7] (https://arduinojson.org/v6/api/jsonarray/)
